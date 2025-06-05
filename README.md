@@ -22,7 +22,7 @@ Welcome to the **Slidespptspdfs** repository by **Lovnish Verma**. This collecti
 | **Machine Learning** | Covers supervised and unsupervised learning algorithms, model evaluation, training/testing splits, and real-world case studies.                                 |
 | **Web Scraping**     | Introductory and intermediate-level content on scraping web data using Python (`requests`, `BeautifulSoup`, `Selenium`) with ethical considerations.            |
 | **Web technologies** | Resources covering HTML, CSS, JavaScript, Bootstrap, and basic web architecture concepts used for frontend development.                                         |
-| **miscellaneous**    | Misc PDFslike Git & GitHub Basics Presentation, Introduction to APIs with Example, soft skills and resources that don’t fit into other categories but are useful for academic or technical use.                             |
+| **miscellaneous**    | Misc PDFs like Git & GitHub Basics Presentation, Introduction to APIs with Example, soft skills and resources that don’t fit into other categories but are useful for academic or technical use.                             |
 
 ---
 
