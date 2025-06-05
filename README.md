@@ -61,4 +61,6 @@ Feel free to fork, edit, and raise a pull request with your improvements.
 
 Let’s build a better open learning resource community! 💡
 
+![thank_you](https://github.com/user-attachments/assets/77f46062-a334-4747-b30e-0c0ec52a5070)
+
 
