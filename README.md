@@ -14,15 +14,15 @@ Welcome to the **Slidespptspdfs** repository by **Lovnish Verma**. This collecti
 
 | Folder               | Description                                                                                                                                                     |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1 Python**         | Contains Python slides and PDFs covering programming basics, functions, loops, data structures, OOP, and exception handling. Ideal for beginner-level sessions. |
-| **1DataScience**     | Core concepts of data science including data collection, EDA, preprocessing, visualization techniques, and project workflows.                                   |
+| **Python**         | Contains Python slides and PDFs covering programming basics, functions, loops, data structures, OOP, and exception handling. Ideal for beginner-level sessions. |
+| **DataScience**     | Core concepts of data science including data collection, EDA, preprocessing, visualization techniques, and project workflows.                                   |
 | **Big Data**         | Slides and PDFs focused on Hadoop, Spark, HDFS, MapReduce, and the Big Data ecosystem used in enterprise-level data processing.                                 |
 | **DBMS**             | Database fundamentals including ER diagrams, normalization, SQL queries, relational models, and transaction management.                                         |
 | **Jetson Nano**      | Workshop slides and handouts related to Jetson Nano hardware setup, use cases in edge AI, GPIO, and computer vision demos.                                      |
 | **Machine Learning** | Covers supervised and unsupervised learning algorithms, model evaluation, training/testing splits, and real-world case studies.                                 |
 | **Web Scraping**     | Introductory and intermediate-level content on scraping web data using Python (`requests`, `BeautifulSoup`, `Selenium`) with ethical considerations.            |
-| **Web technologies** | Resources covering HTML, CSS, JavaScript, Bootstrap, and basic web architecture concepts used for frontend development.                                         |
-| **miscellaneous**    | Misc PDFs like Git & GitHub Basics Presentation, Introduction to APIs with Example, soft skills and resources that don’t fit into other categories but are useful for academic or technical use.                             |
+| **Web Technologies** | Resources covering HTML, CSS, JavaScript, Bootstrap, Flask Framework and basic web architecture concepts used for frontend and backend development.                                         |
+| **Miscellaneous**    | Misc PDFs like Git & GitHub Basics Presentation, Introduction to APIs with Example, soft skills and resources that don’t fit into other categories but are useful for academic or technical use.                             |
 
 ---
 
@@ -45,6 +45,7 @@ Backend Developer | Data Science Instructor | AI & IoT Enthusiast
 
 📧 Email: [princelv84@gmail.com](mailto:princelv84@gmail.com)
 🌐 GitHub: [github.com/lovnishverma](https://github.com/lovnishverma)
+🌐 Portfolio: [lovnishverma.github.io](https://lovnishverma.github.io/)
 
 ---
 
