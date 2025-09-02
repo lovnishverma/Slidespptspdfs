@@ -15,7 +15,7 @@ Welcome to the **Slidespptspdfs** repository by **Lovnish Verma**. This collecti
 | Folder               | Description                                                                                                                                                     |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Python**         | Contains Python slides and PDFs covering programming basics, functions, loops, data structures, OOP, and exception handling. Ideal for beginner-level sessions. |
-| **DataScience**     | Core concepts of data science including data collection, EDA, preprocessing, visualization techniques, and project workflows.                                   |
+| **Data Science**     | Core concepts of data science including data collection, EDA, preprocessing, visualization techniques, and project workflows.                                   |
 | **Big Data**         | Slides and PDFs focused on Hadoop, Spark, HDFS, MapReduce, and the Big Data ecosystem used in enterprise-level data processing.                                 |
 | **DBMS**             | Database fundamentals including ER diagrams, normalization, SQL queries, relational models, and transaction management.                                         |
 | **Jetson Nano**      | Workshop slides and handouts related to Jetson Nano hardware setup, use cases in edge AI, GPIO, and computer vision demos.                                      |
