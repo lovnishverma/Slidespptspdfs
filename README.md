@@ -44,7 +44,9 @@ This repository serves as a **one-stop content bank** for:
 Backend Developer | Data Science Instructor | AI & IoT Enthusiast
 
 📧 Email: [princelv84@gmail.com](mailto:princelv84@gmail.com)
+
 🌐 GitHub: [github.com/lovnishverma](https://github.com/lovnishverma)
+
 🌐 Portfolio: [lovnishverma.github.io](https://lovnishverma.github.io/)
 
 ---
