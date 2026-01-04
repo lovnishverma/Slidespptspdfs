@@ -47,7 +47,7 @@ Backend Developer | Data Science Instructor | AI & IoT Enthusiast
 
 🌐 GitHub: [github.com/lovnishverma](https://github.com/lovnishverma)
 
-🌐 Portfolio: [lovnishverma.github.io](https://lovnishverma.github.io/)
+🌐 Website: [lovnishverma.in](https://lovnishverma.in/)
 
 ---
 
